@@ -1,0 +1,35 @@
+body {
+  /* background: url(./train.jpg); */
+  background-color: black;
+  padding: 0px;
+  margin: 0px;
+  color: aliceblue;
+  font-weight: bold;
+  text-align: center;
+}
+h1 {
+  margin: 20px;
+  padding: 10px;
+}
+#increment-btn {
+  margin: 10px;
+  padding: 10px;
+  background-color: darkred;
+}
+#save-btn {
+  margin: 10px;
+  padding: 10px;
+  background-color: darkred;
+}
+#save-el {
+  color: aliceblue;
+}
+
+.main-cnt {
+  padding: 20px;
+  margin: 20px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
